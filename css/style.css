@@ -28,6 +28,7 @@ main {
     display: flex;
     padding: 3rem;
     max-width: 100vw;
+    min-height: 100vh;
 }
 
     /* Parte do aside */
@@ -218,3 +219,4 @@ footer {
     font-size: 14px;
     height: 2rem;
 }
+
